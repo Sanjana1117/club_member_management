@@ -18,6 +18,7 @@ This is a FastAPI backend project for managing club members using a Supabase Pos
 - FastAPI
 - Supabase (PostgreSQL)
 - Uvicorn
+- Postman
 - Deployment on Render.com
 
 ## Getting Started
