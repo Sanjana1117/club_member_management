@@ -62,6 +62,15 @@ uvicorn main:app --reload
 
 Access the API at [http://localhost:8000]
 
+## API Endpoints
+
+- Get all members:  
+  https://club-member-management.onrender.com/members
+
+- Update or delete member by ID:  
+  https://club-member-management.onrender.com/members/{id}
+
+
 ## Deployment
 
 The backend is deployed on Render:  
